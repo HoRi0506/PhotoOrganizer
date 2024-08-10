@@ -1,3 +1,0 @@
-([('photooranizer',
-   '/Users/kimkiwan/vscode/part_time_job/PhotoOrganizer/PhotoOrganizer/src/dist/photooranizer',
-   'EXECUTABLE')],)

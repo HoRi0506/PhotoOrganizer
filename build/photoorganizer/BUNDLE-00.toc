@@ -1,0 +1,3 @@
+([('photoorganizer',
+   '/Users/kimkiwan/vscode/part_time_job/PhotoOrganizer/PhotoOrganizer/src/dist/photoorganizer',
+   'EXECUTABLE')],)
