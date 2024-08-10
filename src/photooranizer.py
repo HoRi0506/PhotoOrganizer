@@ -29,7 +29,7 @@ class FileOrganizer(QMainWindow):
     
     def organize_photos(self, folder):
         for filename in os.listdir(folder):
-            if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp')):
+            if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.mp4')):
                 # 이 부분의 정규식을 파일 이름 형식에 맞게 수정
                 # date_match = re.search(r'(\d{4})(\d{2})(\d{2})', filename)
                 date_match = re.search(r'(\d{4})-(\d{2})-(\d{2})', filename)
